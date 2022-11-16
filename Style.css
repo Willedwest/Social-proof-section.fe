@@ -20,7 +20,7 @@ body{
   display: grid;
   align-content: center;
   justify-content: center;
-  gap: 1rem;
+  gap: 6rem;
   padding: 2rem;
 }
 
